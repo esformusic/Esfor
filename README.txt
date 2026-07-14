@@ -1,0 +1,1 @@
+Put your photos inside the images folder later.
